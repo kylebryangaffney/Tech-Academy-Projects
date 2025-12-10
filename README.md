@@ -1,2 +1,2 @@
-# Tech-Acadamy-Projects
-This is dedicated to my Tech Acadamy projects
+# Tech-Academy-Projects
+This is dedicated to my Tech Academy projects
